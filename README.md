@@ -1,3 +1,3 @@
-# CMU SCS Thesis Temlate for Latex
+# CMU SCS Thesis Template for Latex
 
 Let's get started on the thesis!
